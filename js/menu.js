@@ -5,7 +5,7 @@ const logo = document.querySelector('.logo-full-menu')
 hamburger.addEventListener ('click', () => {
     hamburger.classList.toggle('close-hamburger');
     fullMenu.classList.toggle('active');
-    logo.innerText = 'Noddus';
+    logo.innerText = 'Noddusa';
     logo.classList.toggle('active');
 })
 

@@ -1,4 +1,4 @@
-const hamburger = document.querySelector('#hamburger');
+const hamburger = document.querySelector('#hamburgegit r');
 const fullMenu = document.querySelector('.full-menu');
 const logo = document.querySelector('.logo-full-menu')
 

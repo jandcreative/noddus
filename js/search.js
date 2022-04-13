@@ -1,6 +1,6 @@
 const search = document.querySelector('.fa-search');
 const form = document.querySelector('.search-form');
-const links = document.querySelector('.box-items');
+const links = document.querySelector('.box-itemsu');
 
 const list = document.querySelectorAll(".item-list");
 const input = document.querySelector("input");

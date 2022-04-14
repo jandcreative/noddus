@@ -1,6 +1,10 @@
 const search = document.querySelector('.fa-search');
 const form = document.querySelector('.search-form');
+<<<<<<< HEAD
 const links = document.querySelector('.box-items');
+=======
+const links = document.querySelector('.box-itemsu');
+>>>>>>> rama-javi
 
 const list = document.querySelectorAll(".item-list");
 const input = document.querySelector("input");
